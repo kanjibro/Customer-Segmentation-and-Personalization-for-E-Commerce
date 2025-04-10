@@ -1,16 +1,11 @@
+MIT License
 
-#### 2. `data/customer_data.csv` (Sample Dataset)
-A 100-row synthetic dataset mimicking e-commerce customer behavior and demographics.
+Copyright (c) 2025 [Your Name]
 
-```csv
-customer_id,age,annual_income,purchase_frequency,total_spent
-1,25,30000,5,150.50
-2,34,45000,8,320.75
-3,45,60000,3,90.20
-4,22,25000,10,200.00
-5,60,80000,2,50.30
-6,29,35000,6,180.90
-7,38,50000,4,120.60
-8,31,40000,7,250.25
-9,50,70000,3,80.10
-10,27,32000,9,210.40
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+[...]
